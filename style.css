@@ -52,7 +52,7 @@ margin-bottom:4%;
 h2 	{
 text-align:center;
 font-weight:normal;
-font-size:20pt;
+font-size:x-large;
 padding-bottom:2%;
 margin-top:2em;
 border-bottom: 1px #CC2244 solid;
@@ -60,10 +60,13 @@ border-bottom: 1px #CC2244 solid;
 h3, p 	{
 text-align:justify;
 font-weight:normal;
-font-size:12pt;
+font-size:large;
 margin-bottom:0px;
 color:#CC9999;
 line-height: 1.7em;
+font-family: 'Fugaz One', cursive;
+text-align:center;
+text-transform: uppercase;
 
 }
 

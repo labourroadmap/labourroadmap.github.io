@@ -57,19 +57,26 @@ padding-bottom:2%;
 margin-top:2em;
 border-bottom: 1px #CC2244 solid;
 }
-h3, p 	{
+p 	{
 text-align:justify;
 font-weight:normal;
 font-size:large;
 margin-bottom:0px;
 color:#CC9999;
 line-height: 1.7em;
+}
+
+h3 	{
+text-align:justify;
+font-weight:normal;
+font-size:large;
+margin-bottom:0px;
+line-height: 1.7em;
 font-family: 'Fugaz One', cursive;
 text-align:center;
 text-transform: uppercase;
 
 }
-
 h4 	{
 text-align:center;
 font-weight:normal;

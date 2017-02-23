@@ -9,11 +9,10 @@ margin:0px;
 }
 
 ul.h { text-align: center;
-width: 100%;
 list-style: none;
 }
 ul.h li { display:inline-block;
-width:25%}
+margin-right:3em;}
 
 dt {	
 	font-weight:bold;

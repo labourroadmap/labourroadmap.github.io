@@ -8,6 +8,10 @@ padding:0px;
 margin:0px;
 }
 
+.full { padding-left:0px;
+	padding-right:0px;
+}
+
 ul.h { text-align: center;
 list-style: none;
 }

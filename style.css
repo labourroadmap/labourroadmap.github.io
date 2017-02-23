@@ -45,7 +45,7 @@ text-transform: uppercase;
 margin-top:0px;
 padding-top:10%;
 font-weight:normal;
-font-size:xx-large;
+font-size:48px;
 background-color:#990033;
 padding-bottom:6%;
 border-bottom: solid #CC2244 1em;
@@ -71,7 +71,7 @@ line-height: 1.7em;
 h3 	{
 text-align:justify;
 font-weight:normal;
-font-size:large;
+font-size:24px;
 margin-bottom:0px;
 line-height: 1.7em;
 font-family: 'Fugaz One', cursive;

@@ -13,7 +13,7 @@ width: 100%;
 list-style: none;
 }
 ul.h li { display:inline-block;
-width:auto;}
+width:33%}
 
 dt {	
 	font-weight:bold;

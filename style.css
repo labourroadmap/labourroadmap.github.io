@@ -12,7 +12,8 @@ ul.h { text-align: center;
 width: 100%;
 list-style: none;
 }
-ul.h li { display:inline-block;}
+ul.h li { display:inline-block;
+width:auto;}
 
 dt {	
 	font-weight:bold;

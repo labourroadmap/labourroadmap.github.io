@@ -15,8 +15,8 @@ margin:0px;
 ul.h { text-align: center;
 list-style: none;
 }
-ul.h li { display:inline-block;
-margin-right:3em;}
+ul.h li { display:inline;
+margin-right:2em;}
 
 dt {	
 	font-weight:bold;

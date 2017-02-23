@@ -8,9 +8,13 @@ padding:0px;
 margin:0px;
 }
 
-dl {
-	
-	
+dt {	
+	font-weight:bold;
+	margin-top:1em;
+	margin-bottom:0.5em;
+}
+dd {
+	margin-left:0px;
 }
 div.page
 {		

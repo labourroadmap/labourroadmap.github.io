@@ -8,6 +8,9 @@ padding:0px;
 margin:0px;
 }
 
+
+ul.h li { display:inline;}
+
 dt {	
 	font-weight:bold;
 	margin-top:2em;
